@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Aclonica-Regular.ttf",
+      "sha1": "4c9d87374ecbee3c959fc84adb45e4b9eef32d45"
+    },
+    {
+      "path": "src/assets/fonts/Aclonica.zip",
+      "sha1": "b3d25a729643052b5f4d54f23695712103bf7c10"
+    },
+    {
+      "path": "src/assets/fonts/Inter.ttf",
+      "sha1": "ee5c2e22ffeddefc433c9aa4c76779bb73a5c682"
+    },
+    {
+      "path": "src/assets/fonts/Inter.zip",
+      "sha1": "35ded16ba018b58a9ca2f3b565373a66e752f777"
+    }
+  ]
+}
